@@ -22,7 +22,6 @@
 /* End PBXAggregateTarget section */
 
 /* Begin PBXBuildFile section */
-		02695365143169EB003A07D4 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 02695364143169EB003A07D4 /* Cocoa.framework */; };
 		0269536F143169EB003A07D4 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0269536D143169EB003A07D4 /* InfoPlist.strings */; };
 		026953E714317379003A07D4 /* afile.c in Sources */ = {isa = PBXBuildFile; fileRef = 026953E214317379003A07D4 /* afile.c */; };
 		026953E814317379003A07D4 /* atari.c in Sources */ = {isa = PBXBuildFile; fileRef = 026953E514317379003A07D4 /* atari.c */; };
@@ -213,7 +212,6 @@
 			files = (
 				0269543B14317AEF003A07D4 /* libreadline.dylib in Frameworks */,
 				026953F314317667003A07D4 /* libz.dylib in Frameworks */,
-				02695365143169EB003A07D4 /* Cocoa.framework in Frameworks */,
 				94DEA019171951AD00073397 /* OpenEmuBase.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
